@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports.biome": "explicit",
+        "source.fixAll": "explicit"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    }
+}
